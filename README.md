@@ -5,7 +5,7 @@
 
 ## O Projeto
 
-Neste projeto utilizei tecnologias como:
+Interface de login responsiva no modo Dark
 
 <br>
 
