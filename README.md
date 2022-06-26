@@ -2,12 +2,14 @@
     Tela de login reponsiva
 </p>
 <br>
-## O PROJETO
+
+## O Projeto
+
 Neste projeto utilizei tecnologias como:
 
 <br>
 
-## DESAFIO
+## Desafio
 
 Criar uma interface de login responsiva do zero.
 
