@@ -1,4 +1,4 @@
-# Tela de login reponsiva
+# Tela de login responsiva
 
 ## O Projeto
 
